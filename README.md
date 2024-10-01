@@ -135,6 +135,7 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
     * Verified Compilation
     * Language Oriented Programming
     * Concurrent Programming Models
+    * PL for Procedural Generation
   - Faculty
     * [Matthias Felleisen](https://felleisen.org/matthias/)
     * [Amal Ahmed](http://ccs.neu.edu/home/amal/)
