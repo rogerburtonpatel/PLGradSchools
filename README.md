@@ -140,6 +140,7 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
     * [Amal Ahmed](http://ccs.neu.edu/home/amal/)
     * [Jan Vitek](http://janvitek.org/)
     * [Frank Tip](http://www.franktip.org/)
+    * [Chris Martens] (https://www.khoury.northeastern.edu/~cmartens/)
 
 * [Princeton University](http://pl.cs.princeton.edu/)
   - Topics
@@ -148,11 +149,14 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
     * Networking
     * Program Analysis
     * Formal Verification
+    * Session Types 
+    * PL and Distributed Systems
   - Faculty
     * [Andrew Appel](http://www.cs.princeton.edu/~appel)
     * [Aarti Gupta](http://www.cs.princeton.edu/~aartig)
     * [Zachary Kincaid](http://www.cs.princeton.edu/~zkincaid)
     * [David Walker](http://www.cs.princeton.edu/~dpw)
+    * [Mae Milano](https://www.cs.princeton.edu/~mpmilano/)
 
 * [PurPL @ Purdue University](https://purpl.cs.purdue.edu/)
   - Topics
@@ -257,14 +261,8 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
     * Domain specific languages
     * Program synthesis
     * Functional programming
-    * Type systems
-    * Security
-    * Garbage collection
     * Static analysis
   - Faculty
-    * [Kathleen Fisher](https://www.cs.tufts.edu/~kfisher)
-    * [Samuel Guyer](https://www.cs.tufts.edu/~sguyer)
-    * [Norman Ramsey](https://www.cs.tufts.edu/~nr)
     * [Jeff Foster](https://www.cs.tufts.edu/~jfoster)
 
 * [Theory Group @ University of Birmingham](http://www.cs.bham.ac.uk/research/groupings/theory/)
@@ -432,6 +430,11 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
 * [Yale University](https://cpsc.yale.edu/research/research-areas/programming-languages)
   - Topics
     * [DeepSpec](https://deepspec.org/)
+    * Certified system software 
+    * Software ensembles and parallelism
+  - Faculty
+    * [Zhong Shao] (https://cpsc.yale.edu/people/zhong-shao)
+    * [David Gelernter] (https://cpsc.yale.edu/people/david-gelernter)
 
 * [University at Buffalo, SUNY](https://cse.buffalo.edu)
   - Topics
